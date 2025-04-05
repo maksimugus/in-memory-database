@@ -1,0 +1,15 @@
+2
+branch
+3	4
+mgr_id	0	10	0	1	4	100	102	106	110	
+branch_name	4	40	0	1	4	Corporate	Scranton	Stamford	Houston	
+branch_id	0	10	1	0	4	1	2	3	4	
+employee
+7	9
+branch_id	0	10	0	1	9	NULL	1	NULL	2	2	2	NULL	3	3	
+super_id	0	10	0	1	9	NULL	100	100	102	102	102	100	106	106	
+salary	0	10	0	1	9	250000	110000	75000	63000	55000	69000	78000	65000	71000	
+sex	4	1	0	1	9	M	F	M	F	F	M	M	M	M	
+last_name	4	40	0	1	9	Wallace	Levinson	Scott	Martin	Kapoor	Hudson	Porter	Bernard	Halpert	
+first_name	4	40	0	1	9	David	Jan	Michael	Angela	Kelly	Stanley	Josh	Andy	Jim	
+emp_id	0	10	1	0	9	100	101	102	103	104	105	106	107	108	
